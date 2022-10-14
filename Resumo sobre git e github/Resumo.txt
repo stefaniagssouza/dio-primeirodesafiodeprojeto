@@ -1,0 +1,10 @@
+Comandos importantes de git
+
+git init
+git status
+git commit -m ""
+
+Comandos importantes de github
+git clone
+git push
+git pull
